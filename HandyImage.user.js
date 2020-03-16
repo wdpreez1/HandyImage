@@ -2274,6 +2274,7 @@ function makeworld()
 	case "luxpic.ru":
 	case "passpix.com":
 	case "trumbhost.com":
+        case "new.imgmercy.com":"
 		//Chevereto 2.x
 		i = q('img[src*="' + iurl + '/images/"]');
 		break;
