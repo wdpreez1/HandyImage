@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name		Handy Image
-// @version		2020.03.16
+// @version		2020.03.16.1
 // @author		Owyn
 // @contributor	ubless607, bitst0rm
 // @namespace	handyimage
@@ -775,6 +775,7 @@
 // @match		*://imgcredit.xyz/image/*
 // @match		https://imgdew.pw/*.php
 // @match		*://drlink.online/*/*/
+// @match               *://*.imgmercy.com/*
 // ==/UserScript==
 
 if (typeof unsafeWindow === "undefined")
