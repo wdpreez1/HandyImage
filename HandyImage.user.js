@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Handy Image
-// @version     2020.03.16.1
+// @version     2020.03.16.2
 // @author      Owyn
 // @contributor ubless607, bitst0rm
 // @namespace   handyimage
@@ -1926,7 +1926,6 @@ function makeworld()
         break;
     case "picspornfree.me":
     case "hotimage.uk":
-    case "xxxwebdlxxx.org":
     case "hdmoza.com":
         i = q('input[type="submit"]');
         dp=true;
@@ -2276,6 +2275,7 @@ function makeworld()
     case "trumbhost.com":
     case "new.imgmercy.com":
     case "xxximagetpb.org":
+    case "xxxwebdlxxx.org":
         //Chevereto 2.x
         i = q('img[src*="' + iurl + '/images/"]');
         break;
