@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name		Handy Image
-// @version		2020.03.10
+// @version		2020.03.16
 // @author		Owyn
 // @contributor	ubless607, bitst0rm
 // @namespace	handyimage
 // @description	Shows just fullsize Image with hotkeys & without pop-ups on many image-hosting sites
-// @updateURL	https://github.com/Owyn/HandyImage/raw/master/HandyImage.user.js
-// @downloadURL	https://github.com/Owyn/HandyImage/raw/master/HandyImage.user.js
+// @updateURL	https://github.com/wdpreez1/HandyImage/raw/master/HandyImage.user.js
+// @downloadURL	https://github.com/wdpreez1/HandyImage/raw/master/HandyImage.user.js
 // @homepage	https://github.com/Owyn/HandyImage
 // @supportURL	https://github.com/Owyn/HandyImage/issues
 // @icon		https://images2.imgbox.com/f0/e8/W9zirOUG_o.png
