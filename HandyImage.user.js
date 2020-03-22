@@ -777,6 +777,7 @@
 // @match       *://drlink.online/*/*/
 // @match       *://new.imgmercy.com/image/*
 // @match       *://xxxbunker.me/image/*
+// @match       *://*.imagestunt.com/image/*
 // ==/UserScript==
 
 if (typeof unsafeWindow === "undefined")
@@ -2278,6 +2279,7 @@ function makeworld()
     case "xxximagetpb.org":
     case "xxxwebdlxxx.org":
     case "xxxbunker.me":
+    case "imagestunt.com":
         //Chevereto 2.x
         i = q('img[src*="' + iurl + '/images/"]');
         break;
